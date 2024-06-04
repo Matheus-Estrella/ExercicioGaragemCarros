@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jLOLLSwYMhNwBbpvc26HiLC4S2bGOnxvSY1Xlpo8qABVLGiHQIOHay14oHGoczgVzoYDFj3gjN3Yt+i/IeY70Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\CarGenerator\\CarGenerator\\CarGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
