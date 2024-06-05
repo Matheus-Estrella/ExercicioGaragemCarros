@@ -11,9 +11,9 @@ namespace Controller
         {
             _GenService = new GenService();
         }
-        public bool Insert(Generic generic, string _tableName)
+        public bool Insert(Generic generic)
         {
-            return _GenService.Insert(generic,_tableName);
+            return _GenService.Insert(generic);
         }
     }
 }

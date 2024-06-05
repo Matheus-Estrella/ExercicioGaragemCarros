@@ -9,9 +9,9 @@ namespace Models
 {
     public class ReadFile
     {
-        public static List<Generic> GetData()
+        public static List<T> GetData<T>() where T : Generic, new()
         {
-            Generic gen = new Generic();
+            T gen = new T();
             string path = gen.GetPath();
             string file = gen.GetFile();
 
@@ -22,7 +22,7 @@ namespace Models
 
             string jsonContent = File.ReadAllText(path + file);
 
-            List<Generic> lista = JsonConvert.DeserializeObject<List<Generic>>(jsonContent);
+            List<T> lista = JsonConvert.DeserializeObject<List<T>>(jsonContent);
 
             return lista;
         }

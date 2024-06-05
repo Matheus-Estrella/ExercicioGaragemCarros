@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a1ac1a7474009c72f7af11a3aa28a34b878ae08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42f6d48cafca0f0a22cf3e4c456df3a5ead82377")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

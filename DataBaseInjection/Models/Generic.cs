@@ -1,14 +1,15 @@
 ﻿using Dapper;
+using System.IO;
 using System.Reflection;
 
 namespace Models
 {
-    public class Generic : Car
+    public abstract class Generic
     {
         public static DynamicParameters GetParameters<T>(T obj)
         {
             DynamicParameters _parameters = new DynamicParameters();
-            PropertyInfo[] _properties = typeof(T).GetProperties();
+            PropertyInfo[] _properties = obj.GetType().GetProperties();
 
             foreach (var _property in _properties)
             {
@@ -17,13 +18,19 @@ namespace Models
             return _parameters;
         }
 
-        public static string GenerateInsertCommand<T>(T obj, string _tableName)
+        public static string GenerateInsertCommand<T>(T obj, string _tableName, string _inforRestrained) // Colocar variável string para ignorar
         {
-            PropertyInfo[] _properties = typeof(T).GetProperties();
-            string _Cols = string.Join(", ", _properties.Select(o => o.Name));
-            string _parameters = string.Join(", ", _properties.Select(o => $"@{o.Name}"));
-            return $"INSERT INTO {_tableName} ({_Cols}) VALUES ({_parameters})";
+            PropertyInfo[] _properties = obj.GetType().GetProperties().ToArray();
+
+            string _Cols = string.Join(", ", _properties.Where(o=> o.Name != "_id").Select(o => o.Name));
+            string _parameters = string.Join(", ", _properties.Where(o => o.Name != "_id").Select(o => $"@{o.Name}"));
+
+            return $"INSERT INTO {_tableName} ({_Cols}) VALUES ({_parameters})"; 
         }
 
+        public virtual string GetPath() { return string.Empty; }
+        public virtual string GetFile() { return string.Empty; }
+        public virtual string GetTableName() { return string.Empty; }
+        public virtual string GetRestrained() { return string.Empty; }
     }
 }

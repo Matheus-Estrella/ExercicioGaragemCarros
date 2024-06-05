@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataInsert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2015AE1-321D-4CC8-8DE9-603C90C46969}|..\\DataBaseInjection\\Models\\Models.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\models\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEF243D-C133-45F0-B861-6B793B6E83E6}|..\\DataBaseInjection\\Service\\Service.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\service\\genservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2015AE1-321D-4CC8-8DE9-603C90C46969}|..\\DataBaseInjection\\Models\\Models.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F341E20-6E7A-4122-B72B-F84478A568E1}|DataInsert\\DataInsert.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\datainsert\\datainsert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F341E20-6E7A-4122-B72B-F84478A568E1}|DataInsert\\DataInsert.csproj|solutionrelative:datainsert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471D1BEE-84C3-44AC-A700-E46F460C0C12}|..\\DataBaseInjection\\Controller\\Controller.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\controller\\gencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D46DE-750C-4ECB-A5CE-AC4F4CE8C1B6}|..\\DataBaseInjection\\Repository\\Repository.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\repository\\genrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2015AE1-321D-4CC8-8DE9-603C90C46969}|..\\DataBaseInjection\\Models\\Models.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\models\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Controller\\GenController.cs",
+              "RelativeDocumentMoniker": "..\\DataBaseInjection\\Controller\\GenController.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Controller\\GenController.cs",
+              "RelativeToolTip": "..\\DataBaseInjection\\Controller\\GenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:26:14.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenService.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Service\\GenService.cs",
+              "RelativeDocumentMoniker": "..\\DataBaseInjection\\Service\\GenService.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Service\\GenService.cs",
+              "RelativeToolTip": "..\\DataBaseInjection\\Service\\GenService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:19:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "..\\DataBaseInjection\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\Car.cs",
+              "RelativeToolTip": "..\\DataBaseInjection\\Models\\Car.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:21:41.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\Generic.cs",
+              "RelativeDocumentMoniker": "..\\DataBaseInjection\\Models\\Generic.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\Generic.cs",
+              "RelativeToolTip": "..\\DataBaseInjection\\Models\\Generic.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:07:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntityService.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\EntityService.cs",
+              "RelativeDocumentMoniker": "..\\DataBaseInjection\\Models\\EntityService.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\EntityService.cs",
+              "RelativeToolTip": "..\\DataBaseInjection\\Models\\EntityService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:05:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataInsert\\DataInsert\\Program.cs",
+              "RelativeDocumentMoniker": "DataInsert\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataInsert\\DataInsert\\Program.cs",
+              "RelativeToolTip": "DataInsert\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:31:43.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Repository\\GenRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataBaseInjection\\Repository\\GenRepository.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Repository\\GenRepository.cs",
+              "RelativeToolTip": "..\\DataBaseInjection\\Repository\\GenRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T14:43:02.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,19 +8,19 @@ namespace CarGenerator
 {
     public class Car
     {
-        public string _licencePlate { get; set; }
+        public string _licensePlate { get; set; }
         public string _name { get; set; }
         public int _modelYear { get; set; }
         public int _makedYear { get; set; }
-        public string _collor { get; set; }
+        public string _color { get; set; }
 
-        public Car(string licencePlate, string name, int modelYear, int makedYear, string collor)
+        public Car(string licensePlate, string name, int modelYear, int makedYear, string collor)
         {
-            _licencePlate = licencePlate;
+            _licensePlate = licensePlate;
             _name = name;
             _modelYear = modelYear;
             _makedYear = makedYear;
-            _collor = collor;
+            _color = collor;
         }
     }
 }

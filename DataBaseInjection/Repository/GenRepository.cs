@@ -14,13 +14,15 @@ namespace Repository
             //Conn = "Data Source = 127.0.0.1; Initial Catalog = x;User Id=sa; Password=SqlServer2019!";  , onde, x é o nome do banco de dados
             Conn = ConfigurationManager.ConnectionStrings["StringConnection_SQLServer"].ConnectionString; // --> Substitui o método da linha acima
         }
-        public bool Insert(Generic generic, string _tableName)
+        public bool Insert(Generic generic)
         {
             var status = false;
             using (var db = new SqlConnection(Conn))
             {
                 db.Open();
-                string _sqlCommand = Generic.GenerateInsertCommand(generic, _tableName);
+                string _inforRestrained = generic.GetRestrained();
+                string _tableName = generic.GetTableName();
+                string _sqlCommand = Generic.GenerateInsertCommand(generic, _tableName,_inforRestrained);
                 var _parameters = Generic.GetParameters(generic);
                 db.Execute(_sqlCommand, _parameters);
                 status = true;

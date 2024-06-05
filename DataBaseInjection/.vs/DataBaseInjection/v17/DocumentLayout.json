@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{F671DECC-DF1A-41B6-891E-E306E5287F88}|DataBaseInjection\\DataBaseInjection.csproj|solutionrelative:databaseinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\models\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|solutionrelative:models\\entityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\models\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|solutionrelative:models\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\models\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|solutionrelative:models\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7426D25D-BEF1-4BFD-919E-345FE952FE56}|Repository\\Repository.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\repository\\genrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +27,16 @@
       "RelativeMoniker": "D:0:0:{87C19CD3-D8C8-4006-8D0E-4CE3662026C4}|Controller\\Controller.csproj|solutionrelative:controller\\gencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{451B6175-F7FE-48D0-B672-E3AFD466A9A9}|Service\\Service.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\service\\genservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{451B6175-F7FE-48D0-B672-E3AFD466A9A9}|Service\\Service.csproj|solutionrelative:service\\genservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\models\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C4CB2C1-183F-4FCC-BD3D-EFF3B15AE856}|Models\\Models.csproj|solutionrelative:models\\readfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F671DECC-DF1A-41B6-891E-E306E5287F88}|DataBaseInjection\\DataBaseInjection.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\databaseinjection\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{F671DECC-DF1A-41B6-891E-E306E5287F88}|DataBaseInjection\\DataBaseInjection.csproj|solutionrelative:databaseinjection\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451B6175-F7FE-48D0-B672-E3AFD466A9A9}|Service\\Service.csproj|c:\\users\\matheus\\exercicios_estagio\\exericiogaragemcarros\\databaseinjection\\service\\genservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451B6175-F7FE-48D0-B672-E3AFD466A9A9}|Service\\Service.csproj|solutionrelative:service\\genservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,28 +59,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EntityService.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\EntityService.cs",
+              "RelativeDocumentMoniker": "Models\\EntityService.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\EntityService.cs",
+              "RelativeToolTip": "Models\\EntityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:13:25.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\Car.cs",
               "RelativeDocumentMoniker": "Models\\Car.cs",
               "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\Car.cs",
               "RelativeToolTip": "Models\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T05:35:56.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ReadFile.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\ReadFile.cs",
               "RelativeDocumentMoniker": "Models\\ReadFile.cs",
               "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\ReadFile.cs",
               "RelativeToolTip": "Models\\ReadFile.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABoAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T05:35:02.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T05:35:02.034Z"
             },
             {
               "$type": "Document",
@@ -86,7 +102,7 @@
               "RelativeDocumentMoniker": "Repository\\GenRepository.cs",
               "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Repository\\GenRepository.cs",
               "RelativeToolTip": "Repository\\GenRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAANAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T03:39:59.233Z",
               "EditorCaption": ""
@@ -99,22 +115,9 @@
               "RelativeDocumentMoniker": "Controller\\GenController.cs",
               "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Controller\\GenController.cs",
               "RelativeToolTip": "Controller\\GenController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIA9wA0AAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T03:39:20.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GenService.cs",
-              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Service\\GenService.cs",
-              "RelativeDocumentMoniker": "Service\\GenService.cs",
-              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Service\\GenService.cs",
-              "RelativeToolTip": "Service\\GenService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:39:42.168Z",
               "EditorCaption": ""
             },
             {
@@ -125,20 +128,19 @@
               "RelativeDocumentMoniker": "DataBaseInjection\\App.config",
               "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\DataBaseInjection\\App.config",
               "RelativeToolTip": "DataBaseInjection\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-05T04:04:25.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T04:04:25.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Generic.cs",
               "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\Generic.cs",
               "RelativeDocumentMoniker": "Models\\Generic.cs",
               "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Models\\Generic.cs",
               "RelativeToolTip": "Models\\Generic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T03:44:07.712Z",
               "EditorCaption": ""
@@ -151,10 +153,22 @@
               "RelativeDocumentMoniker": "DataBaseInjection\\Program.cs",
               "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\DataBaseInjection\\Program.cs",
               "RelativeToolTip": "DataBaseInjection\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T03:35:25.596Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenService.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Service\\GenService.cs",
+              "RelativeDocumentMoniker": "Service\\GenService.cs",
+              "ToolTip": "C:\\Users\\Matheus\\Exercicios_Estagio\\ExericioGaragemCarros\\DataBaseInjection\\Service\\GenService.cs",
+              "RelativeToolTip": "Service\\GenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T03:39:42.168Z"
             }
           ]
         }

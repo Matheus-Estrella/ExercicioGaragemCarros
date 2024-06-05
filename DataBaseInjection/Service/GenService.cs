@@ -11,9 +11,9 @@ namespace Service
         {
             _GenRepository = new GenRepository();
         }
-        public bool Insert(Generic generic, string _tableName)
+        public bool Insert(Generic generic)
         {
-            return _GenRepository.Insert(generic, _tableName);
+            return _GenRepository.Insert(generic);
         }
     }
 }

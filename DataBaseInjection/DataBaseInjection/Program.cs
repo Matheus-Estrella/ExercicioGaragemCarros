@@ -1,19 +1,24 @@
 ﻿using Controller;
 using Models;
 
-var lst = ReadFile.GetData();
-Generic generic = new Generic();
-string _tableName = generic.GetTableName();
-int count = 1;
-foreach (var car in lst)
+DB_CarInject();
+
+static void DB_CarInject()
 {
-    if (new GenController().Insert(car,_tableName))
+    var lst = ReadFile.GetData<Car>();
+    Car generic = new Car();
+    string _tableName = generic.GetTableName();
+    int count = 1;
+    foreach (var car in lst)
     {
-        Console.WriteLine($"[{count}º] Veículo Adicionado !!!");
+        if (new GenController().Insert(car, _tableName))
+        {
+            Console.WriteLine($"[{count}º] Veículo Adicionado !!!");
+        }
+        else
+        {
+            Console.WriteLine($"[{count}º] Erro ao adicionar veículo  !!!");
+        }
+        count++;
     }
-    else
-    {
-        Console.WriteLine($"[{count}º] Erro ao adicionar veículo  !!!");
-    }
-    count++;
 }
